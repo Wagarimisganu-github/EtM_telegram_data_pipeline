@@ -1,7 +1,7 @@
 # Telegram Data Pipeline
 
 ## Overview
-This project builds a comprehensive data pipeline for Ethiopian medical business data scraped from Telegram channels. It includes data scraping, cleaning, transformation, object detection using YOLO, and a FastAPI interface for data access.
+This project builds An end-to-end data platform that extracts medical product insights from public Telegram channels using Telethon, YOLOv8, dbt, and FastAPI—fully orchestrated with Dagster. From raw messages and images to a clean analytical API, this pipeline delivers real-time health market intelligence at scale.
 
 ## Features
 - Telegram channel scraping for medical business data
