@@ -1,7 +1,7 @@
-# Ethiopian Medical Data Warehouse
+# Telegram Data Pipeline
 
 ## Overview
-This project builds a comprehensive data warehouse for Ethiopian medical business data scraped from Telegram channels. It includes data scraping, cleaning, transformation, object detection using YOLO, and a FastAPI interface for data access.
+This project builds a comprehensive data pipeline for Ethiopian medical business data scraped from Telegram channels. It includes data scraping, cleaning, transformation, object detection using YOLO, and a FastAPI interface for data access.
 
 ## Features
 - Telegram channel scraping for medical business data
@@ -99,5 +99,6 @@ eth-meddata-warehouse/
 └── README.md
 ```
 
-## Contributing
-Contributions to this project are welcome.
+## Author
+Waggari Misganu
+
