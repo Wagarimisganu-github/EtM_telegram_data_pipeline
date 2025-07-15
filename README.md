@@ -14,7 +14,7 @@ This project builds An end-to-end data platform that extracts medical product in
 - Python
 - Telethon (for Telegram scraping)
 - DBT (Data Build Tool)
-- YOLO (You Only Look Once) for object detection
+- YOLOv8 (You Only Look Once) for object detection
 - FastAPI
 - SQLAlchemy
 - PostgreSQL
@@ -101,4 +101,6 @@ eth-meddata-warehouse/
 
 ## Author
 Waggari Misganu
+## Meet me @
+wagarimisganu12@gmail.com
 
