@@ -1,20 +1,3 @@
-# .gitignore
-.env
-.venv
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
 venv/
-*.sqlite3
-*.log
+.env
 data/
-dbt/target/
-dbt/dbt_packages/
-
-# Ignore Telethon session files
-*.session
-*.session-journal
-telegram_sessions/
