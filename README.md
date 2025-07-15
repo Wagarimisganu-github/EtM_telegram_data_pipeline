@@ -6,7 +6,7 @@ This project builds An end-to-end data platform that extracts medical product in
 ## Features
 - Telegram channel scraping for medical business data
 - Data cleaning and transformation using DBT (Data Build Tool)
-- Object detection in images using YOLO
+- Object detection in images using YOLOv8
 - Data warehouse implementation
 - FastAPI interface for data access
 
